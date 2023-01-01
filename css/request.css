@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+.request {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 16em auto;
+}
+h1 {
+    color: black;
+}
+p {
+    font-size: 20px;
+    color: black;
+    margin-bottom: 10px;
+}
+.btn {
+    padding: 10px 30px;
+    background: linear-gradient(to right,rgb(48, 206, 111), rgb(45, 196, 161), rgb(43, 186, 200));
+    border: none;
+    border-radius: 5px;
+}
+.btn a {
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
