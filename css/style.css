@@ -369,6 +369,7 @@ ul button:hover{
     .header-content .con1 h1 {
         font-size: 35px;
         padding-right: 0em;
+        padding-left: 0em;
     }
     .con1 button {
         margin-left: 0em;
